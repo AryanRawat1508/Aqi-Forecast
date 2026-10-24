@@ -3,7 +3,7 @@
 Commit at least a few times every week. Write a line in the README decisions log whenever you make a choice.
 
 ## Week 1: Setup and data
-- [ ] Create a GitHub repo, push this folder, make the first commit
+- [1] Create a GitHub repo, push this folder, make the first commit
 - [ ] Pick 5-10 cities (include Dehradun, Delhi, Mumbai, Kolkata, Chennai, Lucknow)
 - [ ] Download historical PM2.5 / AQI data (OpenAQ, CPCB or Kaggle)
 - [ ] Download matching hourly weather data from Open-Meteo
